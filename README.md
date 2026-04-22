@@ -1,20 +1,32 @@
-# IRIS Flower classification (Flask)
+# 🌸 Iris Flower Classification using K-Nearest Neighbour
 
-This web app uses Machine Learning to classify Iris Flower based on their species (Versicolor, Setosa, Virginica)
+A machine learning project that classifies iris flower species
+(Setosa, Versicolor, Virginica) using the KNN algorithm.
 
-## Packages / Technologies Used
+## 🎯 Result
+- **Accuracy: 90%** on test data
+- Algorithm: K-Nearest Neighbour (k=5)
 
+## 🛠️ Tech Stack
+- Python 3.x
+- Scikit-learn
+- Pandas
+- NumPy
+- Matplotlib
+
+## ▶️ How to Run
+```bash
+pip install -r requirements.txt
+python iris_classification.py
 ```
-Flask as the frame work
-Html, css , Bootstrap for the design and structure
-Machine Learning Algorithm ( Decision Trees ) for classification
-Numpy, Pandas, Pickle, Sklearn, Seaborn, Matplotlib for visualization & analysis 
 
-```
+## 📊 What it does
+- Loads and preprocesses the Iris dataset
+- Performs feature engineering and visualization
+- Trains a KNN classifier
+- Evaluates using confusion matrix and classification report
 
-## Working URL
-
-The link to the deployed app is [this](http://karankaul10.pythonanywhere.com/).
-
-## Note
-The Web design aspects such as the page styling have been referenced. 
+## 👤 Author
+Gaganshekar C
+[LinkedIn](https://linkedin.com/in/gaganshekarc) | 
+[GitHub](https://github.com/Gaganshekar)
