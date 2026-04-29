@@ -26,6 +26,14 @@ python iris_classification.py
 - Trains a KNN classifier
 - Evaluates using confusion matrix and classification report
 
+## Note
+The Web design aspects such as the page styling have been referenced. 
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Gaganshekar&color=blue)
+![Gagan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gaganshekar&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaganshekar&layout=compact&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gaganshekar&theme=dark)
+
 ## 👤 Author
 Gaganshekar C
 [LinkedIn](https://linkedin.com/in/gaganshekarc) | 
